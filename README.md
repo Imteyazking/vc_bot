@@ -1,4 +1,4 @@
-<h1 align="centre">🎶 Music Bot 🎶</h1>
+<h1 align="centre">🎶 LoveMusic_Bot 🎶</h1>
 
 ## Requirements 📝
 
