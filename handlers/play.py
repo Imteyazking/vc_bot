@@ -24,7 +24,7 @@ from pyrogram import Client
 @errors
 async def play(_, message: Message):
 
-    lel = await message.reply(f"**{bn} :-** 🔄 Processing...")
+    lel = await message.reply(f"**{bn} :-** 🔄  search kar raha hai babu ab agya lo sunno...")
     sender_id = message.from_user.id
     sender_name = message.from_user.first_name
     hell_pic = PLAY_PIC
@@ -33,8 +33,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="🔊 Channel",
-                        url="https://t.me/The_HellBot")
+                        text="⚔️GROUP⚔️",
+                        url="https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT")
                    
                 ]
             ]
@@ -61,14 +61,14 @@ async def play(_, message: Message):
 
     if message.chat.id in callsmusic.pytgcalls.active_calls:
         position = await queues.put(message.chat.id, file=file_path)
-        await lel.edit(f"**{bn} :-** #️⃣ Queued at position #{position} !")
+        await lel.edit(f"**{bn} :-** #️⃣ Yeh iske baad sun lena ek dam mast hai #{Ek song pahle sun le tab dusra lagaa lena} !")
     else:
         callsmusic.pytgcalls.join_group_call(message.chat.id, file_path)
         await message.reply_photo(
         photo=hell_pic,
         reply_markup=keyboard,
-        caption="▶️ Playing song... \n**Requested By :-** {}!".format(
-        message.from_user.mention()
+        caption="⚔️ Playing song... \n**Requested By :-** {}!".format(
+        message.from_user.mention() deploper (@Imteyaz_king)
         ),
     )
         return await lel.delete()
@@ -78,7 +78,7 @@ async def play(_, message: Message):
 @errors
 async def play(_, message: Message):
 
-    lel = await message.reply(f"**{bn} :-** 🔎 Finding song...")
+    lel = await message.reply(f"**{bn} :-** 🔎 Finding aagya lo ab sunno...")
     sender_id = message.from_user.id
     user_id = message.from_user.id
     sender_name = message.from_user.first_name
@@ -89,7 +89,7 @@ async def play(_, message: Message):
     for i in message.command[1:]:
         query += ' ' + str(i)
     print(query)
-    await lel.edit(f"**{bn} :-** 🎵 Processing {query}")
+    await lel.edit(f"**{bn} :-** 🎵 ab play hoga {Sabr kro babu aap song aa raha hai}")
     ydl_opts = {"format": "bestaudio[ext=m4a]"}
     try:
         results = YoutubeSearch(query, max_results=1).to_dict()
@@ -158,7 +158,7 @@ async def play(_, message: Message):
         photo=thumb_name,
         reply_markup=keyboard,
         caption="▶️ **Playing** here the song requested by {}".format(
-        message.from_user.mention()
+        message.from_user.mention() deploper (@Imteyaz_king)
         ),
     )
         return await lel.delete()
