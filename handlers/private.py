@@ -21,10 +21,10 @@ async def start(_, message: Message):
         [
             [
                 InlineKeyboardButton(
-                    "Group 💬", url="https://t.me/love_talks_fam"
+                    "Group 💬", url="https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT"
                 ),
                 InlineKeyboardButton(
-                    "Channel 📣", url="https://t.me/love_talks_support"
+                    "Channel 📣", url="https://t.me/King_fighter_Bot_support"
                 )
             ]
         ]
@@ -51,10 +51,10 @@ Happy Streaming 😉
                         "Repo 📑", url="https://github.com/Imteyazking/vc_bot"
                     ),
                     InlineKeyboardButton(
-                        "Creator 📣", url="https://t.me/Dil_nawaj_khan"
+                        "Creator 📣", url="https://t.me/Imteyaz_king"
                     ),
                     InlineKeyboardButton (
-                        "Co_Owner_Creator", url="https://t.me/gjaykaryt"
+                        "Co_Owner_Creator", url="https://t.me/Dil_nawaj_khan"
                     )
                 ]
             ]
