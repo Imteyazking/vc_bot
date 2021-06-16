@@ -1,5 +1,5 @@
-<h1 align="centre">🎶 LoveMusic_Bot 🎶</h1>
-
+<h1 align="centre">🎶 KING FIGHTER MUSIC BOT 🎶</h1>
+[![KING FIGHTER MUSIC BOT LOGO](https://telegra.ph/file/3752959d3d8eea115e77c.jpg)](https://t.me/King_fighter_Bot_support)
 ## Requirements 📝
 
 - FFmpeg
@@ -28,7 +28,7 @@ Get STRING_NAME from here:
 
 ## Credits
 
-- [Roj](https://github.com/rojserbest): main developer
-- [Marvin](https://github.com/BlackStoneReborn): bug reporter
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
+- [Imteyaz](https://github.com/rojserbest): main developer
+- [Imteyaz](https://github.com/BlackStoneReborn): bug reporter
+- [Rehan](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
