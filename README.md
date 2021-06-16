@@ -1,5 +1,5 @@
 <h1 align="centre">🎶 KING FIGHTER MUSIC BOT 🎶</h1>
-[![KING FIGHTER MUSIC BOT LOGO](https://telegra.ph/file/3752959d3d8eea115e77c.jpg)](https://t.me/King_fighter_Bot_support)
+
 ## Requirements 📝
 
 - FFmpeg
