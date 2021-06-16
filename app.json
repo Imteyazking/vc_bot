@@ -19,15 +19,15 @@
       "required": false,
       "value": "KING_FIGHTER_MUSIC_BOT"
     },
-    "API_ID": {4122138
+    "API_ID": {
       "description": "App ID from my.telegram.org/apps",
       "required": true
     },
-    "API_HASH": {ac8ce0b690d798979ceef3f908d0c069
+    "API_HASH": {
       "description": "App hash from my.telegram.org/apps",
       "required": true
     },
-    "SUDO_USERS": {1799098485
+    "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
       "required": true
     },
