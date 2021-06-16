@@ -131,7 +131,7 @@ async def a(client, message: Message):
         await m.delete()
     except Exception as e:
         m.edit(f"❌ Error!! \n\n{e}")
-    try:
+    try: 
         os.remove(audio_file)
         os.remove(thumb_name)
     except Exception as e:
