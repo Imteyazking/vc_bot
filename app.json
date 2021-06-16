@@ -1,6 +1,7 @@
 {
   "name": "KING FIGHTER MUSIC BOT",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.@KING_FIGHTER_MUSIC_BOT",
+  "logo": "https://telegra.ph/file/3752959d3d8eea115e77c.jpg",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat creator owner @Imteyaz_king. Powered by PyTgCalls.@KING_FIGHTER_MUSIC_BOT",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/TheVaders/MusicBot",
   "stack": "container",
