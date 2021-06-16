@@ -6,12 +6,12 @@
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string",
+      "description": "Pyrogram session string KING _FIGHTER_MUSIC_BOT",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather",
-      "required": true
+      "Access": true
     },
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
