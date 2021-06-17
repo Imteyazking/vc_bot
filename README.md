@@ -15,7 +15,7 @@
 
 Get STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@mdimteyaz/getStringName-1)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@mdimteyaz/KINGFIGHTERMUSICBOT)
 
 ### Mandatory Vars.
 
