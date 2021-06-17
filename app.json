@@ -7,7 +7,7 @@
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string KING _FIGHTER_MUSIC_BOT",
+      "description": "Pyrogram session string",
       "required": true
     },
     "BOT_TOKEN": {
