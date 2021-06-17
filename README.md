@@ -13,9 +13,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Get STRING_NAME from here: @Imteyaz_king
+Get STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@mdimteyaz/KINGFIGHTERMUSICBOT)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)]()
 
 ### Mandatory Vars.
 
