@@ -4,8 +4,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from config import BOT_NAME as bn
 from helpers.filters import command, other_filters2, other_filters
 
-  Welcome to my  our Bot @KING_FIGHTER_MUSIC_BOT make in admin
-  Assistant manage vc @KING_FIGHTER_MUSIC_Ass Assistant ko make in admin only enjoy
+ 
 
 @Client.on_message(command("help") & other_filters2)
 async def helper(ok, message: Message):
