@@ -13,7 +13,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Get @King_fighter_Bot_support from here:
+Get STARTING SESSION from here:
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@mdimteyaz/KINGFIGHTERMUSICBOTPrograming-language#main.py)
 
@@ -22,7 +22,7 @@ Get @King_fighter_Bot_support from here:
 - Some Of The Mandatory Vars Are :-
    - `API_ID` :  Give API_ID of your Alternate Telegram Account.
    - `API_HASH` :  Give API_HASH of your Alternate Telegram Account.
-   - `@King_fighter_Bot_support` :  Make a string session from [here](https://replit.com/@mdimteyaz/KINGFIGHTERMUSICBOTPrograming-language#main.py)
+   - `STARTING SESSION` :  Make a string session from [here](https://replit.com/@mdimteyaz/KINGFIGHTERMUSICBOTPrograming-language#main.py)
    - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://t.me/botfather) and fill it's bot token.
    - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
 
