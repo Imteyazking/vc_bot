@@ -11,7 +11,7 @@ async def helper(ok, message: Message):
     await message.reply_text(
         f"""💞 Hello! Following are the commands available for **{bn}** - __A Group Voice Chat Music Player__.
 The commands I currently support are:
-
+KING FIGHTER SUPPORT GROUP OFFICIAL Chat @King_fighter_Bot_support
 ⚔️ **Users Commands :**
 ⚔️ /play - **[ Groups Only ]** > __Plays the replied audio file or YouTube video through link.__
 ⚔️ /song - **[ Groups & DM ]** > __Uploads the searched song in the chat.__
@@ -23,7 +23,7 @@ The commands I currently support are:
 ⚔️ /resume - **[Groups Only ]** > __Resume Voice Chat Music.__
 ⚔️ /skip - **[Groups Only ]** > __Skips the current Music Playing In Voice Chat.__
 ⚔️ /stop - **[Groups Only ]** > __Clears The Queue as well as ends Voice Chat Music.__""")
-
+⚔️ /Creator - **[Creator ]** > __Creator The  group music bot.__
 @Client.on_message(command("help") & other_filters)
 async def ghelp(_, message: Message):
     await message.reply_text(f"**{bn} :-** Hey! PM me to get all the commands 😉")
